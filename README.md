@@ -1,4 +1,7 @@
-# Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h1 align='center'> Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevegongoral//)](https://www.linkedin.com/in/stevegongoral/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve.gongora@gmail.com)](mailto:steve.gongora@gmail.com)
+
 > 👨🏻‍🚀 Every good thing in this world, started with a dream. So you hold on to yours
 ## 👨🏻‍💻 About Me
 - 🌱 I’m currently learning **Front-End Developer**
@@ -27,8 +30,5 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-## 🤝 Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevegongoral//)](https://www.linkedin.com/in/stevegongoral/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve.gongora@gmail.com)](mailto:steve.gongora@gmail.com)
 
  ⭐️ From [SteveGongoraL](https://github.com/stevegongoral)
