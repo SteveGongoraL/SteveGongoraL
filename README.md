@@ -1,5 +1,5 @@
 # Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
+> 👨🏻‍🚀 Every good thing in this world, started with a dream. So you hold on to yours
 ## 👨🏻‍💻 About Me
 - 🌱 I’m currently learning **Front-End Developer**
 - 🎧 My hobbies are **Music and Wrestling**
@@ -31,7 +31,4 @@
 ## 🤝 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevegongoral//)](https://www.linkedin.com/in/stevegongoral/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve.gongora@gmail.com)](mailto:steve.gongora@gmail.com)
 
-> 👨🏻‍🚀 Every good thing in this world, started with a dream. So you hold on to yours
-
----
  ⭐️ From [SteveGongoraL](https://github.com/stevegongoral)
