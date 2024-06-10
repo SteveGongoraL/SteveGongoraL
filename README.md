@@ -4,6 +4,7 @@
 
 > 👨🏻‍🚀 Every good thing in this world, started with a dream. So you hold on to yours
 ## 👨🏻‍💻 About Me
+- 🦾 I have a Bachelor's degree in **Information Technology**
 - 🌱 I’m currently learning **Front-End Developer**
 - 🎧 My hobbies are **Music and Wrestling**
 
