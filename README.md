@@ -17,17 +17,21 @@
 </div>
 
 ### <a href="">Frontend Development</a>
-<img src="https://github.com/user-attachments/assets/fc158f66-ff59-4444-b5fa-fb52f408bccf" alt="Icono HTML" />
-<img src="https://github.com/user-attachments/assets/55b6cfc6-5ccf-45af-a916-f6f4a3ec6115" alt="Icono Css" />
-<img src="https://github.com/user-attachments/assets/829a41f8-6853-4a2b-b17f-f3b505541282" alt="Icono Javascript" />
-<img src="https://github.com/user-attachments/assets/684e54b0-76ea-4352-bc11-6a3d648e4c30" alt="Icono Bootstrap" />
-<img src="https://github.com/user-attachments/assets/97708086-8afd-49a7-b800-ad8a67e0c2e5" alt="Icono React" />
+<div>
+ <img src="https://github.com/user-attachments/assets/fc158f66-ff59-4444-b5fa-fb52f408bccf" alt="Icono HTML" />
+ <img src="https://github.com/user-attachments/assets/55b6cfc6-5ccf-45af-a916-f6f4a3ec6115" alt="Icono Css" />
+ <img src="https://github.com/user-attachments/assets/829a41f8-6853-4a2b-b17f-f3b505541282" alt="Icono Javascript" />
+ <img src="https://github.com/user-attachments/assets/684e54b0-76ea-4352-bc11-6a3d648e4c30" alt="Icono Bootstrap" />
+ <img src="https://github.com/user-attachments/assets/97708086-8afd-49a7-b800-ad8a67e0c2e5" alt="Icono React" />
+</div>
 
 ### <a href="">Database and Development tools</a>
-<img src="https://github.com/user-attachments/assets/23659131-9311-4a4f-bae0-24e80969fda8" alt="Icono Mysql" />
+<div>
+ <img src="https://github.com/user-attachments/assets/23659131-9311-4a4f-bae0-24e80969fda8" alt="Icono Mysql" />
 <img src="https://github.com/user-attachments/assets/e7ac6c30-c5a4-43aa-9ac5-3ce801528cbc" alt="Icono Postgresq" />
-<img src="https://github.com/user-attachments/assets/bf72fed5-97ba-47ef-bfe4-ad1c46040cc9" alt="Icono Docker" />
-<img src="https://github.com/user-attachments/assets/3b6c0ac5-406a-4fbc-a1d0-46d48afe76e2" alt="Icono Git" />
+ <img src="https://github.com/user-attachments/assets/bf72fed5-97ba-47ef-bfe4-ad1c46040cc9" alt="Icono Docker" />
+ <img src="https://github.com/user-attachments/assets/3b6c0ac5-406a-4fbc-a1d0-46d48afe76e2" alt="Icono Git" />
+</div>
 
 ## 🌟 Proyectos Destacados 
 ### [Gestión de Eventos Financieros](https://github.com/SteveGongoraL/GobData)
