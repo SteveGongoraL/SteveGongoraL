@@ -10,23 +10,23 @@
 
 ## 🛠 Languages and Tools
 ### <a href="">Programming Languages</a>
-![CSharp](https://github.com/user-attachments/assets/43df8d95-bca7-4539-ad96-57bff7da7440)
-![Java](https://github.com/user-attachments/assets/57e2ddd4-ea59-4668-9316-9b4d5050fa2a)
-![Python](https://github.com/user-attachments/assets/a9b6337b-1c49-4410-9b20-814a692dafde)
+<img src="https://github.com/user-attachments/assets/cdd4eb62-3244-4bab-a12f-76b2712b2fba" alt="Icono CSharp" />
+<img src="https://github.com/user-attachments/assets/dc79190e-5fe6-4cad-973e-45f6a8a8cd25" alt="Icono Java" />
+<img src="https://github.com/user-attachments/assets/560a2372-43f9-41d7-ada6-40e7e1d6c9b9" alt="Icono Python" />
+
 
 ### <a href="">Frontend Development</a>
-![Html](https://github.com/user-attachments/assets/efb919a9-a80f-4491-b3d5-2d30622ed7e7)
-![Css](https://github.com/user-attachments/assets/70ff43d3-c752-4947-8a3c-f70288a626ae)
-![Javascript](https://github.com/user-attachments/assets/bd1fa452-b1d6-447e-b2a0-70d1b85612c4)
-![Bootstrap](https://github.com/user-attachments/assets/89e47af4-524e-41e7-81b1-a38e0ee11a72)
-![React](https://github.com/user-attachments/assets/9e65b47b-2c9c-4004-8889-efb1ba06595c)
+<img src="https://github.com/user-attachments/assets/fc158f66-ff59-4444-b5fa-fb52f408bccf" alt="Icono HTML" />
+<img src="https://github.com/user-attachments/assets/55b6cfc6-5ccf-45af-a916-f6f4a3ec6115" alt="Icono Css" />
+<img src="https://github.com/user-attachments/assets/829a41f8-6853-4a2b-b17f-f3b505541282" alt="Icono Javascript" />
+<img src="https://github.com/user-attachments/assets/684e54b0-76ea-4352-bc11-6a3d648e4c30" alt="Icono Bootstrap" />
+<img src="https://github.com/user-attachments/assets/97708086-8afd-49a7-b800-ad8a67e0c2e5" alt="Icono React" />
 
 ### <a href="">Database and Development tools</a>
-![Mysql](https://github.com/user-attachments/assets/01234deb-dcb8-41e8-983e-4c759a49ef90)
-![Postgresq](https://github.com/user-attachments/assets/c2af3760-0ad4-4cd5-8b6e-cfe7ea615f6f)
-![Docker](https://github.com/user-attachments/assets/425d4526-12b6-4f16-b02a-85ad74733091)
-![Git](https://github.com/user-attachments/assets/dfd9bb29-6b42-4806-9915-558ba6a5421f)
-![Appscript](https://github.com/user-attachments/assets/64e174d2-64af-4331-aba4-39a2485d4d79)
+<img src="https://github.com/user-attachments/assets/23659131-9311-4a4f-bae0-24e80969fda8" alt="Icono Mysql" />
+<img src="https://github.com/user-attachments/assets/e7ac6c30-c5a4-43aa-9ac5-3ce801528cbc" alt="Icono Postgresq" />
+<img src="https://github.com/user-attachments/assets/bf72fed5-97ba-47ef-bfe4-ad1c46040cc9" alt="Icono Docker" />
+<img src="https://github.com/user-attachments/assets/3b6c0ac5-406a-4fbc-a1d0-46d48afe76e2" alt="Icono Git" />
 
 ## 🌟 Proyectos Destacados 
 ### [Gestión de Eventos Financieros](https://github.com/SteveGongoraL/GobData)
@@ -43,10 +43,11 @@ Una aplicación en Windows Forms para gestionar eventos y partidas en el ámbito
 Juego de adivinar el número, donde el jugador intenta adivinar un número secreto generado aleatoriamente entre 1 y un número máximo especificado.
 
 - **Tecnologías:** Javascript, Html, CSS.
-- **Caracteristicas:** Generación de numeros, Comparación de datos, Evento de botones.
+- **Caracteristicas:** Generación de números aleatorios, Interfaz de usuario interactiva, Contador de intentos, Opciones de reinicio, Responsividad.
 
 <img src="https://github.com/user-attachments/assets/6a24d1c8-4bf0-47c7-adcd-b0fc99bace6b" alt="Imagen del Juego" width="375" />
 
----
+[![juego](https://img.shields.io/badge/Game_Link-efd81d?style=for-the-badge&logoColor=white&color=800080)](https://stevegongoral.github.io/Juego-numero-secreto/)
+
 
  ⭐️ From [SteveGongoraL](https://github.com/stevegongoral)
