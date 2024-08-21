@@ -10,10 +10,11 @@
 
 ## 🛠 Languages and Tools
 ### <a href="">Programming Languages</a>
-<img src="https://github.com/user-attachments/assets/cdd4eb62-3244-4bab-a12f-76b2712b2fba" alt="Icono CSharp" />
-<img src="https://github.com/user-attachments/assets/dc79190e-5fe6-4cad-973e-45f6a8a8cd25" alt="Icono Java" />
-<img src="https://github.com/user-attachments/assets/560a2372-43f9-41d7-ada6-40e7e1d6c9b9" alt="Icono Python" />
-
+<div>
+ <img src="https://github.com/user-attachments/assets/cdd4eb62-3244-4bab-a12f-76b2712b2fba" alt="Icono CSharp" />
+ <img src="https://github.com/user-attachments/assets/dc79190e-5fe6-4cad-973e-45f6a8a8cd25" alt="Icono Java" />
+ <img src="https://github.com/user-attachments/assets/560a2372-43f9-41d7-ada6-40e7e1d6c9b9" alt="Icono Python" />
+</div>
 
 ### <a href="">Frontend Development</a>
 <img src="https://github.com/user-attachments/assets/fc158f66-ff59-4444-b5fa-fb52f408bccf" alt="Icono HTML" />
