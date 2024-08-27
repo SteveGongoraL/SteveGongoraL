@@ -20,7 +20,7 @@
 <div>
  <img src="https://github.com/user-attachments/assets/411ac89f-2e58-4134-81a4-f1230e852a30" alt="Icono HTML" />
  <img src="https://github.com/user-attachments/assets/377c272c-4385-4ce5-b16d-1892c7af26cb" alt="Icono Css" />
- <img src="https://github.com/user-attachments/assets/adb3d5de-26a2-4056-90a0-bb66faf87f0e" alt="Icono Javascript" />
+ <img src="https://github.com/user-attachments/assets/0e02a9f4-f1cc-45df-8c1c-b4ec4ac351a6" alt="Icono Javascript" />
  <img src="https://github.com/user-attachments/assets/22304972-d62c-4ae5-8304-d651998a763c" alt="Icono Bootstrap" />
  <img src="https://github.com/user-attachments/assets/ba2789e8-3efa-41e3-a679-771da94aea7d" alt="Icono React" />
 </div>
