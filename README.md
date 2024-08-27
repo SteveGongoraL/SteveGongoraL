@@ -42,11 +42,11 @@ Una aplicación en Windows Forms para gestionar eventos y partidas en el ámbito
 - **Tecnologías**: C#, .NET 8, MySQL, Docker.
 - **Características**: Registro de eventos, Gestión de partidas, Visualización y descarga de documentos, Exportación de partidas a Excel.
 
-<img src="https://github.com/user-attachments/assets/40b09864-b3cc-4c88-9d58-7109bf5c354e" alt="Gif del proyecto GobData" width="400" />
+<img src="https://github.com/user-attachments/assets/40b09864-b3cc-4c88-9d58-7109bf5c354e" alt="Gif del proyecto GobData" width="400" loading="lazy"/>
 
 ---
 
-### [Juego del Numero Secreto](https://stevegongoral.github.io/Juego-numero-secreto/) 🎡
+### [Juego del Numero Secreto](https://stevegongoral.github.io/Juego-numero-secreto/) 🐱‍👤
 Juego de adivinar el número, donde el jugador intenta adivinar un número secreto generado aleatoriamente entre 1 y un número máximo especificado.
 
 - **Tecnologías:** Javascript, Html, CSS.
@@ -54,7 +54,7 @@ Juego de adivinar el número, donde el jugador intenta adivinar un número secre
   
 [![juego](https://img.shields.io/badge/Game_Link-efd81d?style=for-the-badge&FontColor=black&color=DD4C80)](https://stevegongoral.github.io/Juego-numero-secreto/)
 
-<img src="https://github.com/user-attachments/assets/cbc6e77b-ec9d-4613-9fed-b83fba944ca1" alt="Imagen del Juego" width="400" />
+<img src="https://github.com/user-attachments/assets/cbc6e77b-ec9d-4613-9fed-b83fba944ca1" alt="Imagen del Juego" width="400" loading="lazy"/>
 
 ---
 
