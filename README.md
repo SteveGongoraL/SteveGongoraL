@@ -54,6 +54,8 @@ Juego de adivinar el número, donde el jugador intenta adivinar un número secre
   
 [![juego](https://img.shields.io/badge/Game_Link-efd81d?style=for-the-badge&FontColor=black&color=DD4C80)](https://stevegongoral.github.io/Juego-numero-secreto/)
 
-<img src="https://github.com/user-attachments/assets/6a24d1c8-4bf0-47c7-adcd-b0fc99bace6b" alt="Imagen del Juego" width="375" />
+<img src="https://github.com/user-attachments/assets/cbc6e77b-ec9d-4613-9fed-b83fba944ca1" alt="Imagen del Juego" width="400" />
+
+---
 
  ⭐️ From [SteveGongoraL](https://github.com/stevegongoral)
