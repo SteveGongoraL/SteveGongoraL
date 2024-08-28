@@ -46,7 +46,7 @@ Una aplicación en Windows Forms para gestionar eventos y partidas en el ámbito
 
 ---
 
-### [Juego del Numero Secreto](https://stevegongoral.github.io/Juego-numero-secreto/) 🐱‍👤
+### [Juego del Numero Secreto](https://github.com/SteveGongoraL/Juego-numero-secreto) 🐱‍👤
 Juego de adivinar el número, donde el jugador intenta adivinar un número secreto generado aleatoriamente entre 1 y un número máximo especificado.
 
 - **Tecnologías:** Javascript, Html, CSS.
