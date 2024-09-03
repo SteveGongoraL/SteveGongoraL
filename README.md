@@ -39,8 +39,8 @@
 ### [Gestión de Eventos Financieros](https://github.com/SteveGongoraL/GobData) 💰
 Una aplicación en Windows Forms para gestionar eventos y partidas en el ámbito financiero. Permite el registro de eventos, asignación de partidas, y la gestión de documentos asociados.
 
-- **Tecnologías**: C#, .NET 8, MySQL, Docker.
-- **Características**: Registro de eventos, Gestión de partidas, Visualización y descarga de documentos, Exportación de partidas a Excel.
+- **Tecnologías:** C#, .NET 8, MySQL, Docker.
+- **Características:** Registro de eventos, Gestión de partidas, Visualización y descarga de documentos, Exportación de partidas a Excel.
 
 <img src="https://github.com/user-attachments/assets/40b09864-b3cc-4c88-9d58-7109bf5c354e" alt="Gif del proyecto GobData" width="400" loading="lazy"/>
 
@@ -52,9 +52,19 @@ Juego de adivinar el número, donde el jugador intenta adivinar un número secre
 - **Tecnologías:** Javascript, Html, CSS.
 - **Caracteristicas:** Generación de números aleatorios, Interfaz de usuario interactiva, Contador de intentos, Opciones de reinicio, Responsividad.
   
-[![juego](https://img.shields.io/badge/Game_Link-efd81d?style=for-the-badge&FontColor=black&color=DD4C80)](https://stevegongoral.github.io/Juego-numero-secreto/)
+[![Juego-Numero-Secreto](https://img.shields.io/badge/Game_Link-efd81d?style=for-the-badge&FontColor=black&color=DD4C80)](https://stevegongoral.github.io/Juego-numero-secreto/)
 
 <img src="https://github.com/user-attachments/assets/cbc6e77b-ec9d-4613-9fed-b83fba944ca1" alt="Imagen del Juego" width="400" loading="lazy"/>
+
+---
+
+### [Encriptador de Texto](https://github.com/SteveGongoraL/Encriptador-texto) 🔐
+Aplicación web para encriptar y desencriptar texto con reglas específicas, permitiendo convertir y recuperar mensajes de forma rápida y sencilla.
+
+- **Tecnologías:** Javascript, Html, CSS, Figma
+- **Caracteristicas:** Encriptar texto, Desencriptar texto, Validación de entrada, Copia automática.
+  
+[![Encriptador-Texto](https://img.shields.io/badge/Encriptador-efd81d?style=for-the-badge&FontColor=black&color=DD4C80)](https://stevegongoral.github.io/Encriptador-texto/)
 
 ---
 
