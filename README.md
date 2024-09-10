@@ -55,7 +55,7 @@ Juego de adivinar el número, donde el jugador intenta adivinar un número secre
   
 [![Juego-Numero-Secreto](https://img.shields.io/badge/Game_Link-efd81d?style=for-the-badge&FontColor=black&color=DD4C80)](https://stevegongoral.github.io/Juego-numero-secreto/)
 
-<img src="https://github.com/user-attachments/assets/cbc6e77b-ec9d-4613-9fed-b83fba944ca1" alt="Imagen del Juego" width="400" loading="lazy"/>
+<img src="https://github.com/user-attachments/assets/cbc6e77b-ec9d-4613-9fed-b83fba944ca1" alt="Gif del Juego" width="400" loading="lazy"/>
 
 ---
 
@@ -66,6 +66,8 @@ Aplicación web para encriptar y desencriptar texto con reglas específicas, per
 - **Caracteristicas:** Encriptar texto, Desencriptar texto, Validación de entrada, Copia automática.
   
 [![Encriptador-Texto](https://img.shields.io/badge/Encriptador-efd81d?style=for-the-badge&FontColor=black&color=DD4C80)](https://stevegongoral.github.io/Encriptador-texto/)
+
+<img src="https://github.com/user-attachments/assets/d990a909-649b-4cc6-8690-54eae98d02e7" alt="Gif del Encriptador" width="400" loading="lazy"/>
 
 ---
 
