@@ -67,7 +67,7 @@ Aplicación web para encriptar y desencriptar texto con reglas específicas, per
   
 [![Encriptador-Texto](https://img.shields.io/badge/Encriptador-efd81d?style=for-the-badge&FontColor=black&color=DD4C80)](https://stevegongoral.github.io/Encriptador-texto/)
 
-<img src="https://github.com/user-attachments/assets/d990a909-649b-4cc6-8690-54eae98d02e7" alt="Gif del Encriptador" width="400" loading="lazy"/>
+<img src="https://github.com/user-attachments/assets/2eb190cd-aaef-4018-8a03-b4af17c157a1" alt="Gif del Encriptador" height=350px loading="lazy"/>
 
 ---
 
