@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Typescript and Java**
 - 🎧 My hobbies are **Listening Music and Watching Wrestling**
 - ✔ Ask me about anything, I am happy to help
-- 📫 Reach out to me at: **steve.gongora@gmail.com**
 
 ## 🎗️ Skills and Tools 
 ### <a href="">Languages</a>
