@@ -1,13 +1,13 @@
 <h1 align='center'> Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Steve_Brayton_Góngora_Luévano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevegongoral//)](https://www.linkedin.com/in/stevegongoral/) [![Gmail Badge](https://img.shields.io/badge/-steve.gongora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve.gongora@gmail.com)](mailto:steve.gongora@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevegongoral//)](https://www.linkedin.com/in/stevegongoral/) [![Gmail Badge](https://img.shields.io/badge/-steve.gongora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve.gongora@gmail.com)](mailto:steve.gongora@gmail.com)
 
 > 👨🏻‍🚀 Every good thing in this world, started with a dream. So you hold on to yours.
 ## 👨🏻‍💻 About Me
-- 🦾 I have a Bachelor's degree in **Information Technology**
-- 🌱 I’m currently learning **Typescript and Java**
-- 🎧 My hobbies are **Listening Music and Watching Wrestling**
-- ✔ Ask me about anything, I am happy to help
+- 🦾 I have a Bachelor's degree in **Information Technology**.
+- 🌱 I’m currently learning **Typescript and Java**.
+- 🎧 My hobbies are **Listening Music and Watching Wrestling**.
+- ✔ Ask me about anything, I am happy to help.
 
 ## 🎗️ Skills and Tools 
 ### <a href="">Languages</a>
@@ -25,6 +25,8 @@
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Icono Docker">
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Icono Git">
  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Icono MYSQL">
+ <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Icono Raspberry Pi">
+ <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Icono Twilio">
 </span>
 
 ## ⭐️ Proyectos Destacados 
@@ -35,3 +37,6 @@ Una aplicación en Windows Forms para gestionar eventos y partidas en el ámbito
 - **Características:** Registro de eventos, Gestión de partidas, Visualización y descarga de documentos, Exportación de partidas a Excel.
 
 <img src="https://github.com/user-attachments/assets/40b09864-b3cc-4c88-9d58-7109bf5c354e" alt="Gif del proyecto GobData" width="400" loading="lazy"/>
+
+## 🚀 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevegongoral&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
